@@ -3,10 +3,10 @@ export default function Maintenance() {
 
         <div className="h-screen items-center flex m-auto">
             <div className="w-full">
-                <div className="text-gray-700 font-light text-center">
-                    <h1 className="text-4xl font-bold">Sorry!</h1>
+                <div className="text-gray-300 font-light text-center">
+                    <h1 className="text-7xl font-bold">Sorry!</h1>
                     <br/>
-                    <h2 className="text-2xl">Site is temporally down for
+                    <h2 className="text-4xl">Site is temporally down for
                         maintenance.</h2>
                     <br/>
                 </div>
