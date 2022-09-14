@@ -5,8 +5,10 @@ import Maintenance from "./Maintenance";
 function App() {
     return (
         <div
-            className="min-h-screen text-center justify-centert bg-red-400 dark:bg-red-500 w-full">
-            <Maintenance/>
+            className="h-screen w-screen text-center justify-centert bg-[url('https://atlassianblog.wpengine.com/wp-content/uploads/2018/05/scheduled-maintenance-message-examples-and-inspiration0a@3x.png')]">
+            <div className="backdrop-blur-md">
+                <Maintenance/>
+            </div>
         </div>
     );
 }

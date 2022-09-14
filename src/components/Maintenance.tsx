@@ -8,6 +8,7 @@ export default function Maintenance() {
                     <br/>
                     <h2 className="text-2xl">Site is temporally down for
                         maintenance.</h2>
+                    <br/>
                 </div>
             </div>
         </div>)
