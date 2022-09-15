@@ -5,7 +5,7 @@ import Maintenance from "./Maintenance";
 function App() {
     return (
         <div
-            className="h-screen w-screen bg-center bg-[url('/pictures/background.png')]">
+            className="h-screen w-screen bg-center bg-[url('/pictures/minimalistic.jpeg')]">
             <div className="backdrop-blur-md backdrop-brightness-100">
                 <Maintenance/>
             </div>
